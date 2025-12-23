@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+langchain
+neo4j
+pydantic
+azure-ai-documentintelligence
+openai
+langchain-openai
+langchain-community
+python-dotenv
+streamlit
+pyvis
